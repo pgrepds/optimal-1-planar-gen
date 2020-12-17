@@ -29,3 +29,16 @@ Adding the crossing diagonals in edge of the faces of Q results in an optimal 1-
 <br/>
 <br/>
 The generation of the planar skeletons, namely the simple quadrangulations, is implemented in plantri. We call plantri within sage, generate the planar skeletons and then simply add the crossing diagonals in each face. It would have been more efficient to extend the original C-code of plantri, but also more time consuming ;).
+
+## References
+
+[1] V. Berhard. Zur Morphologie der Polyeder. Teubner, 1891.
+[2] R. Bodendiek, H. Schumacher, and K. Wagner. "Über 1-optimale Graphen". In: Mathematische Nachrichten 117.1 (1984), pp. 323-339.
+[3] Gunnar Brinkmann et al. "Generation of simple quadrangulations of the sphere". In: MATCH Commun. Math. Comput. Chem 58.2 (2007), pp. 323-357.
+[4] Gunnar Brinkmann et. al. "Generation of simple quadrangulations of the sphere". In: Discrete Mathematics 305.1-3 (2005), pp. 33-54.
+[5] Igor Fabrici and Tomáš Madaras. "The structure of 1-planar graphs". In: Discrete Mathematics 307.7-8 (2007), pp. 854-865.
+[6] Brendan D. McKay and Adolfo Piperno. "Practical graph isomorphism, II". In: Journal of Symbolic Computation 60 (2014), pp. 94-112.
+
+## License
+### MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)

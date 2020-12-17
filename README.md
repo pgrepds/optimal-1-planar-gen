@@ -19,13 +19,13 @@ Given a 1-planar embedding G. Removing the crossing edges from G results in a si
 Consider a simple quadrangulation Q on n=11 vertices. A possible planar embedding is given by the following figure
 <br/>
 <br/>
-![](readme_img/simpleQuadrangulation11.png)
+<img style="float: left;" src="readme_img/simpleQuadrangulation11.png">
 <br/>
 <br/>
 Adding the crossing diagonals in edge of the faces of Q results in an optimal 1-planar graph. Its embedding is given by the following figure
 <br/>
 <br/>
-![](readme_img/optimal1Planar11.png)
+<img style="float: left;" src="readme_img/optimal1Planar11.png">
 <br/>
 <br/>
 The generation of the planar skeletons, namely the simple quadrangulations, is implemented in plantri. We call plantri within sage, generate the planar skeletons and then simply add the crossing diagonals in each face. It would have been more efficient to extend the original C-code of plantri, but also more time consuming ;).

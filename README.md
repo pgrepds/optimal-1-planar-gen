@@ -38,6 +38,7 @@ The generation of the planar skeletons, namely the simple quadrangulations, is i
 [4] Gunnar Brinkmann et. al. "Generation of simple quadrangulations of the sphere". In: Discrete Mathematics 305.1-3 (2005), pp. 33-54.<br/>
 [5] Igor Fabrici and Tomáš Madaras. "The structure of 1-planar graphs". In: Discrete Mathematics 307.7-8 (2007), pp. 854-865.<br/>
 [6] Brendan D. McKay and Adolfo Piperno. "Practical graph isomorphism, II". In: Journal of Symbolic Computation 60 (2014), pp. 94-112.<br/>
+[7] Gerhard Ringel. “Ein sechsfarbenproblem auf der Kugel”. In: Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg. Vol. 29. 1. Springer. 1965, pp. 107–117.<br/>
 
 ## License
 ### MIT License

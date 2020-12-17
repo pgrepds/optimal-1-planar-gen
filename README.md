@@ -17,10 +17,14 @@ Given a 1-planar embedding G. Removing the crossing edges from G results in a si
 <br/>
 <br/>
 Consider a simple quadrangulation Q on n=11 vertices. A possible planar embedding is given by the following figure
+<br/>
+<br/>
 ![](readme_img/simpleQuadrangulation11.png)
 <br/>
 <br/>
-Adding the crossing diagonals in edge of the faces of Q results in an optimal 1-planar graph. Its embedding is givven by the following figure
+Adding the crossing diagonals in edge of the faces of Q results in an optimal 1-planar graph. Its embedding is given by the following figure
+<br/>
+<br/>
 ![](readme_img/optimal1Planar11.png)
 <br/>
 <br/>

@@ -3,7 +3,7 @@
 This repository contains an algorithm for generating optimal 1-planar graphs. The implementation is based on SageMath 8.8. and the program [plantri](https://users.cecs.anu.edu.au/~bdm/plantri/) written by Gunnar Brinkmann and Brendan McKay. Plantri uses [nauty](http://pallini.di.uniroma1.it/) for rejecting isomorphic graphs.
 <br/>
 <br/>
-A graph is 1-planar if it can be embedded in the plane such that each edge cross at most once. If a 1-planar graph with n vertices has 4n−8 edges, it is called optimal
+A graph is 1-planar if it can be embedded in the plane such that each edge crosses at most once. If a 1-planar graph with n vertices has 4n−8 edges, it is called optimal
 1-planar. The family of optimal 1-planar graphs can be obtained by generating simple plane quadrangulations and then adding the crossing diagonals in each face.
 <br/>
 <br/>
